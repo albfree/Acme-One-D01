@@ -26,6 +26,8 @@
 			<acme:menu-suboption code="master.menu.anonymous.delgado-link" action="https://www.diariodesevilla.es/"/>
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.fernandez-link" action="http://www.marca.com/"/>
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.escobar-link" action="https://www.motogp.com/es"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
