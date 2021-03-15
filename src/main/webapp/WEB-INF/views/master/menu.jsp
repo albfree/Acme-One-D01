@@ -24,6 +24,8 @@
 			<acme:menu-suboption code="master.menu.anonymous.guerrero-link" action="https://es.wikipedia.org/wiki/Liberalismo_cl%C3%A1sico"/>
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.delgado-link" action="https://www.diariodesevilla.es/"/>
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.fernandez-link" action="http://www.marca.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
