@@ -30,6 +30,8 @@
 			<acme:menu-suboption code="master.menu.anonymous.escobar-link" action="https://www.motogp.com/es"/>
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.moreno-link" action="https://www.netflix.com/"/>
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.rojas-link" action="https://proxybay.ltda/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
