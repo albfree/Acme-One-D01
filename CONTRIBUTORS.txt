@@ -9,3 +9,5 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+
+- Antonio Javier Moreno González (antmorgon4@alum.us.es)
